@@ -1,0 +1,11 @@
+{
+  "app": "SMALI JARVIS",
+  "version": "0.7.0",
+  "mode": "read-only-audit",
+  "default_framework_paths": [
+    "/system/framework/services.jar",
+    "/system/framework/oat/arm64/services.art",
+    "/system/framework/oat/arm64/services.odex",
+    "/system/framework/oat/arm64/services.vdex"
+  ]
+}
